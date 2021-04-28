@@ -43,7 +43,7 @@ Partially permeable membrane - membrane that allows some molecules to pass throu
 Osmosis
 Net movement of water from a region of higher water potential to a region of lower water potential across a partially permeable membrane 
 
-	 Animal Cells 	
+Animal cells
 Hypotonic ; Water flows in, lysis 
 Isotonic ;	No net movement of water, remains the same 	
 Hypertonic; 	The cell becomes flaccid, water flows out 	
